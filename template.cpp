@@ -6,8 +6,6 @@ using namespace std;
 #define all(x) x.begin(), x.end()
 #define pb push_back
 #define mp make_pair
-#define ff first
-#define ss second
 #define vi vector<int>
 #define inf 1e18
 #define mod 1000000007
@@ -19,7 +17,6 @@ using namespace std;
 #define yes cout << "YES" << nl
 #define no cout << "NO" << nl
 // __int128 for integers with more than 18 digits (e.g., 10^36)
-
 void solve () {
     // Code Logic
 }
