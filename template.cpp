@@ -12,6 +12,9 @@ using namespace std;
 #define vi vector<int>
 #define pii pair<int, int>
 #define mii map<int, int>
+#define pqm priority_queue<pair<int, int>>
+#define que queue<int>
+#define stk stack<int>
 #define pqb priority_queue<int>
 #define pqs priority_queue<int, vi, greater<int>>
 #define inf 1e18
