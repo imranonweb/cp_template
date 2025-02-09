@@ -1,4 +1,3 @@
-//------ imranonweb Template ------//
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long int
@@ -10,13 +9,6 @@ using namespace std;
 #define ff first
 #define ss second
 #define vi vector<int>
-#define pii pair<int, int>
-#define mii map<int, int>
-#define pqm priority_queue<pair<int, int>>
-#define que queue<int>
-#define stk stack<int>
-#define pqb priority_queue<int>
-#define pqs priority_queue<int, vi, greater<int>>
 #define inf 1e18
 #define mod 1000000007
 #define PI 3.1415926535897932384626
