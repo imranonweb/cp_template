@@ -13,17 +13,21 @@ using namespace std;
 #define MOD 1000000007
 #define MAX LLONG_MAX
 #define MIN LLONG_MIN
-
+void file(){
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    freopen("error.txt", "w", stderr);
+}
 void solve() {
     
   }
 
 int main() {
     io();  
+    file();
     int T;
     cin >> T;  
-    while (T--) {
-        solve();
-    }
+    while (T--)
+    solve();
     return 0;
 }
